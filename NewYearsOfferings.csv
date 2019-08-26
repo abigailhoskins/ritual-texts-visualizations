@@ -1,0 +1,101 @@
+section,offering,utensil,material,decoration,count,number,quantity,measurement,type of substance,position,occasion,personnel,deity,day,month,text,additional
+3,bread,,,,1,"plural, unspecified",,,bread,,awakening of the temple,baker,,7,Tashritu,TU 39,
+3,roasted meat,,,,1,1,,,meat,,regular offerings,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,beef,,,,1,1,,,meat,,regular offerings,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,mutton,,,,1,1,,,meat,,regular offerings,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,first-quality beer,,,,1,1,,,beer,,not specified,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,drawn wine,,,,1,1,,,wine,,not specified,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,milk,,,,1,1,,,milk,,not specified,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,date cakes,,,,1,1,,,confection,,not specified,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,fine mixed beer,,,,1,1,,,beer,,not specified,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,labku beer,,,,1,1,,,beer,,not specified,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,tirimtu cups,tirimtu,,,1,1,,,vessel,,not specified,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,dannu vat,dannu,,,1,1,,,vessel,,not specified,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,namharu vat,namharu,,shaped like a raven,1,1,,,vessel,,not specified,baker,Papsukkal; Gushkingbanda,7,Tashritu,TU 39,
+3,guqqu offering,,,,1,1,,,assemblage,,not specified,priest,,7,Tashritu,TU 39,
+3,siltu food offering,,,,1,1,,,assemblage,,not specified,priest,,7,Tashritu,TU 39,
+3,morning meal,,,,1,1,,,assemblage,,rabu morning,priest,,7,Tashritu,TU 39,
+3,morning meal,,,,1,1,,,assemblage,,tardennu morning,priest,,7,Tashritu,TU 39,
+3,evening meal,,,,1,1,,,assemblage,the room between the curtains,rabu evening,priest,,7,Tashritu,TU 39,
+3,evenig meals,,,,1,1,,,assemblage,the room between the curtains,tardennu evening,priest,,7,Tashritu,TU 39,
+3,roasted meat,,,,1,1,,,meat,,regular offerings,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,beef,,,,1,1,,,meat,,regular offerings,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,mutton,,,,1,1,,,meat,,regular offerings,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,first-quality beer,,,,1,1,,,beer,,not specified,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,drawn wine,,,,1,1,,,wine,,not specified,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,milk,,,,1,1,,,milk,,not specified,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,date cakes,,,,1,1,,,confection,,not specified,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,fine mixed beer,,,,1,1,,,beer,,not specified,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,labku beer,,,,1,1,,,beer,,not specified,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,tirimtu cups,tirimtu,,,1,1,,,vessel,,not specified,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,dannu vat,dannu,,,1,1,,,vessel,,not specified,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,namharu vat,namharu,,shaped like a raven,1,1,,,vessel,,not specified,baker,Papsukkal; Gushkingbanda,7,Nisannu,TU 39,
+3,guqqu offering,,,,1,1,,,,the room between the curtains,guqqu offering,priest,,7,Nisannu,TU 39,follow the clothing ceremony
+3,siltu food offering,,,,1,1,,,,the room between the curtains,siltu food offering,priest,,7,Nisannu,TU 39,
+3,morning meal,,,,1,2,,,,the room between the curtains,rabu morning,priest,,7,Nisannu,TU 39,
+3,morning meal,,,,1,2,,,,the room between the curtains,tardennu morning,priest,,7,Nisannu,TU 39,
+3,evening meal,,,,1,2,,,,the room between the curtains,rabu evening,priest,,7,Nisannu,TU 39,
+3,evenig meal,,,,1,2,,,,the room between the curtains,tardennu evening,priest,,7,Nisannu,TU 39,
+4,libation,libation bowl,gold,,1,1,,,libation,Grand Courtyard,washing of the hands,priest,Anu,8,Tashritu,TU 39,
+4,meal,dish,gold,,1,1,,,meal,Grand Courtyard,not specified,priest,Anu,8,Tashritu,TU 39,
+4,hot roasted meat,dish,gold,,1,1,,,meat,Grand Courtyard,not specified,priest,Anu,8,Tashritu,TU 39,
+4,meal,dish,gold,,1,1,,,meal,Grand Courtyard,not specified,priest,The other gods in the Grand Courtyard,8,Tashritu,TU 39,
+4,hot roasted meat,dish,gold,,1,1,,,meat,Grand Courtyard,not specified,priest,The other gods in the Grand Courtyard,8,Tashritu,TU 39,
+4,libation,libation bowl,gold,,1,1,,,libation,Egubiduga,not specified,temple enterer,Papsukkal,8,Tashritu,TU 39,
+4,heart of an ox,,,,1,1,,,meat,room between the curtains,merditu offering,priest,Anu,8,Tashritu,TU 39,
+4,head of a sheep,,,,1,1,,,meat,room between the curtains,merditu offering,priest,Anu,8,Tashritu,TU 39,
+4,mashatu flour,malitu bowl,gold,,1,1,,,flour,room between the curtains,merditu offering,priest,Anu,8,Tashritu,TU 39,upturned over the heart of an ox
+4,wine,libation bowl,,,1,1,,,wine,room between the curtains,merditu offering,priest,Anu,8,Tashritu,TU 39,made on head of the sheep
+4,libation,libation bowl,gold,,1,1,,,libation,room between the curtains,merditu offering,priest,Anu,8,Tashritu,TU 39,"tablet damaged, reading unclear"
+1,libation,libation bowl,gold,,1,1,,,libation,,not specified,king,Anu,9,Tashritu,TU 40,
+1,sheep,,,,1,1,,,meat,,not specified,priest,Anu,9,Tashritu,TU 40,"""its rites for the eight day ditto"""
+1,libation,libation bowl,gold,,1,1,,,libation,,not specified,king,Anu,9,Tashritu,TU 40,
+2,heart of an ox,,,,1,1,,,meat,room between the curtains,merditu offering,priest,Anu,9,Tashritu,TU 40,"""for the eighth day ditto"""
+2,head of a sheep,,,,1,1,,,meat,room between the curtains,merditu offering,priest,Anu,9,Tashritu,TU 40,"""for the eighth day ditto"""
+2,mashatu flour,malitu bowl,gold,,1,1,,,flour,room between the curtains,merditu offering,priest,Anu,9,Tashritu,TU 40,upturned over the heart of an ox
+2,wine,libation bowl,,,1,1,,,wine,room between the curtains,merditu offering,priest,Anu,9,Tashritu,TU 40,made on head of the sheep
+2,libation,libation bowl,gold,,1,1,,,libation,room between the curtains,not specified,king,Anu,9,Tashritu,TU 40,
+2,libation,libation bowl,gold,,1,1,,,libation,beside the Dais of Kingship,not specified,king,Anu,9,Tashritu,TU 40,
+2,libation,libation bowl,gold,,1,1,,,libation,,not specified,king,Enlil; Ea; Nusku; Kusu; Usmu,9,Tashritu,TU 40,
+2,libation,libation bowl,gold,,1,1,,,libation,,not specified,king,,9,Tashritu,TU 40,
+5,evening meal,,,,1,1,,,assemblage,,tardennu evening,,,9,Tashritu,TU 39,
+5,ox,,,,1,1,,,meat,,not specified,priest,,9,Tashritu,TU 39,
+5,sheep,,,,1,1,,,meat,,not specified,priest,,9,Tashritu,TU 39,
+5,evening meal,,,,1,1,,,assemblage,,tardennu evening,priest,,10,Tashritu,TU 39,
+6,morning meal,,,,1,1,,,assemblage,,rabu morning,priest,,10,Tashritu,TU 39,
+6,morning meal,,,,1,1,,,assemblage,,tardennu morning,priest,,10,Tashritu,TU 39,
+6,evening meal,,,,1,1,,,assemblage,,rabu evening,priest,,10,Tashritu,TU 39,
+7,morning meal,,,,1,1,,,assemblage,,rabu morning,priest,Anu; Antu; the other gods,11,Tashritu,TU 39,"""the other gods"" doesn't include Ninsun and Lugalbanda"
+7,libation,libation bowl,gold,,1,1,,,libation,,not specified,king,Lugalbanda; Ninsun; the other gods,11,Tashritu,TU 39,
+7,evening meal,,,,1,1,,,assemblage,,rabu evening,priest,,11,Tashritu,TU 39,
+7,evening meal,,,,1,1,,,assemblage,,tardennu evening,priest,,11,Tashritu,TU 39,
+1,libation,bowl,gold,,1,1,,,libation,,procession to the temple,king,Antu,,Nisannu,KAR 132,
+3,libation,bowl,gold,,1,1,,,libation,before Anu,procession to the temple,king,Anu,,Nisannu,KAR 132,
+4,libation,bowl,gold,,1,1,,,libation,before Anu,procession to the temple,king,Anu,,Nisannu,KAR 132,
+4,libation,bowl,gold,,1,1,,,libation,,procession to the temple,king,Anu; Antu,,Nisannu,KAR 132,
+9,thigh piece,,,,1,1,,,meat,,preparation of figurines,metalworker; high priest of the Etusha,Bel,3,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,breast,,,,1,1,,,meat,,preparation of figurines,goldsmith; high priest of the Etusha,Bel,3,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,shoulder piece,,,,1,1,,,meat,,preparation of figurines,carpenter; high priest of the Etusha,Bel,3,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,ribs,,,,1,"plural, unspecified",,,meat,,preparation of figurines,weaver; high priest of the Etusha,Bel,3,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,thigh piece,,,,1,1,,,meat,,preparation of figurines,metalworker; high priest of the Etusha,Bel,4,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,breast,,,,1,1,,,meat,,preparation of figurines,goldsmith; high priest of the Etusha,Bel,4,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,shoulder piece,,,,1,1,,,meat,,preparation of figurines,carpenter; high priest of the Etusha,Bel,4,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,ribs,,,,1,"plural, unspecified",,,meat,,preparation of figurines,weaver; high priest of the Etusha,Bel,4,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,thigh piece,,,,1,1,,,meat,,preparation of figurines,metalworker; high priest of the Etusha,Bel,5,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,breast,,,,1,1,,,meat,,preparation of figurines,goldsmith; high priest of the Etusha,Bel,5,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,shoulder piece,,,,1,1,,,meat,,preparation of figurines,carpenter; high priest of the Etusha,Bel,5,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,ribs,,,,1,"plural, unspecified",,,meat,,preparation of figurines,weaver; high priest of the Etusha,Bel,5,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,thigh piece,,,,1,1,,,meat,,preparation of figurines,metalworker; high priest of the Etusha,Bel,6,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,breast,,,,1,1,,,meat,,preparation of figurines,goldsmith; high priest of the Etusha,Bel,6,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,shoulder piece,,,,1,1,,,meat,,preparation of figurines,carpenter; high priest of the Etusha,Bel,6,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+9,ribs,,,,1,"plural, unspecified",,,meat,,preparation of figurines,weaver; high priest of the Etusha,Bel,6,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Bel and presented to personnel
+10,leftovers,,,,1,"plural, unspecified",,,food (unspecified),,preparation of figurines,priest,figurines,6,Nisannu,R.Acc 127-154 +BM 32485,taken from offering table of Madanu and served to figurines
+25,roasted meat,,,,1,1,,,meat,golden offering table,not specified,high priest,Bel,5,Nisannu,R.Acc 127-154 +BM 32485,
+25,regular offerings,,,,1,12,,,assemblage,golden offering table,not specified,high priest,Bel,5,Nisannu,R.Acc 127-154 +BM 32485,
+25,salt,...,gold,,1,1,,,salt,golden offering table,not specified,high priest,Bel,5,Nisannu,R.Acc 127-154 +BM 32485,
+25,honey,...,gold,,1,1,,,honey,golden offering table,not specified,high priest,Bel,5,Nisannu,R.Acc 127-154 +BM 32485,
+25,wine,,,,1,1,,,wine,before Bel,not specified,high priest,Bel,5,Nisannu,R.Acc 127-154 +BM 32485,
+26,honey,,,,1,1,,,honey,over reed bundle in the hole in the Grand Courtyard,not specified,high priest; king,,5,Nisannu,R.Acc 127-154 +BM 32485,
+26,ghee,,,,1,1,,,ghee,over reed bundle in the hole in the Grand Courtyard,not specified,high priest; king,,5,Nisannu,R.Acc 127-154 +BM 32485,
+26,fine oil,,,,1,1,,,oil,over reed bundle in the hole in the Grand Courtyard,not specified,high priest; king,,5,Nisannu,R.Acc 127-154 +BM 32485,
+26,white bull,,,,1,1,,,livestock,before hole in the Grand Courtyard,not specified,high priest; king,,5,Nisannu,R.Acc 127-154 +BM 32485,
